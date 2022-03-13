@@ -1,0 +1,10 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "google-news-json": "^2.1.0",
+    "google-news-scraper": "git+https://github.com/Kraggr/google-news-scraper"
+  }
+}
