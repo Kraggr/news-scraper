@@ -18,3 +18,7 @@ Optional to auto-refresh compilation
 or 
 
     nodemon main.js
+
+### How to use
+
+Go to [http://localhost:3002?q=search](http://localhost:3002?q=search)
